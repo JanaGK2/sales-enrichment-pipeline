@@ -1,10 +1,3 @@
-# sales-enrichment-pipeline
-AI-powered tool to enrich B2B leads using Perplexity API.
-Here is a professional `README.md` ready for you to use. You can simply save this as a file named `README.md` in your project folder (GitHub renders it automatically).
-
-I have structured it to highlight the **business value** and the **technical implementation**, which is exactly what recruiters or peers want to see.
-
-***
 
 # AI-Powered Sales Enrichment Pipeline
 
